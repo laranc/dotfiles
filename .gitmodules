@@ -1,0 +1,9 @@
+[submodule "nvim"]
+	path = nvim
+	url = https://github.com/laranc/nvim.git
+[submodule "wezterm"]
+	path = wezterm
+	url = https://github.com/laranc/wezterm.git
+[submodule "awesome"]
+	path = awesome
+	url = https://github.com/laranc/awesome.git
